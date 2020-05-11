@@ -1,0 +1,1 @@
+start "Discord" /high "C:\Users\$USER_HERE\AppData\Local\Discord\app-0.0.306\Discord.exe"
